@@ -1,0 +1,27 @@
+body{
+    text-align:center;
+    font-family:Arial;
+}
+
+/* блок з аніме */
+.anime-row{
+    display:flex;
+    justify-content:space-between;
+    margin:20px;
+}
+
+.anime-card{
+    width:30%;
+}
+
+.anime-list{
+    display:inline-block;
+    text-align:left;
+}
+
+footer{
+    margin-top:40px;
+    border-top:1px solid #ccc;
+    padding:20px;
+    text-align:center;
+}
